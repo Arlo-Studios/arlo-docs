@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'Arlo Hosting Documentation',
-  description:
-    'Everything you need to host, manage, and maintain your services with Arlo Hosting.',
+  description: 'Everything you need to host, manage, and maintain your services with Arlo Hosting.',
+  cleanUrls: true,
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
