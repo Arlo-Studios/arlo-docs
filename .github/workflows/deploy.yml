@@ -1,4 +1,3 @@
-# Arlo Hosting documentation deployment
 name: Deploy VitePress site to Pages
 
 on:
