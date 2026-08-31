@@ -32,7 +32,7 @@ It's particularly useful for:
 - Finding errors
 - Troubleshooting problems
 
-You can learn more in **[Console & Logs](server/console)**.
+You can learn more in **[Console & Logs](console)**.
 
 ## Files
 
@@ -40,7 +40,7 @@ Your server includes a file manage that allows you to manage the files used by y
 
 You can upload, download, edit, and delete files directly from the Panel.
 
-See **[Managing Files](server/files)** for more information.
+See **[Managing Files](files)** for more information.
 
 ## Databases
 
@@ -48,10 +48,10 @@ Depending on your hosting plan, you may have access to databases for your applic
 
 Database management is available directly through the Panel.
 
-See **[Databases](server/databases)** for more information.
+See **[Databases](databases)** for more information.
 
 ## Backups
 
 If backups are included with your hosting plan, you can manage them through the Panel.
 
-See **[Backups](server/backups)** for more information.
+See **[Backups](backups)** for more information.
